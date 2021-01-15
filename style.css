@@ -346,7 +346,7 @@ border-bottom-right-radius: 12px;
     padding:5px;
     font-size: 0.975rem;
     background-color: #d49a89;
-    margin-top: 130px;
+    margin-top: 155px;
 }
 .bottom-footer-about span{
     color: #656565;
@@ -363,6 +363,10 @@ border-bottom-right-radius: 12px;
 .bottom-footer-about .instagram{
     float:left;
     padding-left: 35%;
+}
+.bottom-footer-about .phone{
+  float:right;   
+  padding-right: 39%;
 }
 
 .bottom-footer-home .phone{
@@ -395,4 +399,117 @@ border-bottom-right-radius: 12px;
 .bottom-footer-home .phone{
     float:right;   
     padding-right: 39%;
+}
+.bottom-footer-order{
+  padding:5px;
+  font-size: 0.975rem;
+  background-color: #d49a89;
+  margin-top: 255px;
+}
+.bottom-footer-order span{
+  color: #656565;
+}
+.bottom-footer-order a{
+  color:white;
+  text-decoration: none;
+  font-family: 'Poppins', sans-serif;
+}
+.bottom-footer-order a:hover{
+  text-decoration: underline;
+}
+
+.bottom-footer-order .instagram{
+  float:left;
+  padding-left: 35%;
+}
+.bottom-footer-order .phone{
+  float:right;   
+  padding-right: 39%;
+}
+.bottom-footer-login{
+  padding:5px;
+  font-size: 0.975rem;
+  background-color: #d49a89;
+  margin-top: 439px;
+}
+.bottom-footer-login span{
+  color: #656565;
+}
+.bottom-footer-login a{
+  color:white;
+  text-decoration: none;
+  font-family: 'Poppins', sans-serif;
+}
+.bottom-footer-login a:hover{
+  text-decoration: underline;
+}
+
+.bottom-footer-login .instagram{
+  float:left;
+  padding-left: 35%;
+}
+.bottom-footer-login .phone{
+  float:right;   
+  padding-right: 39%;
+}
+td {
+  padding-left: 10%;
+}
+.kotak{
+  size : 10vw;
+}
+.menu1{
+  padding: 10px;
+  margin: 5px 0;
+  border: 3px  solid rgb(31, 34, 36);
+}
+.menu2{
+  padding: 10px;
+  margin: 5px 0px 0px 25%;    
+  border: 3px solid rgb(31, 34, 36);
+}
+.menu3{
+  padding: 10px;
+  margin: 5px 0px 0px 65px;
+  border: 3px solid rgb(31, 34, 36);
+}
+.bayar{
+  margin-left: 6%;
+  float: left;
+}
+.pilihan{
+  margin-right: 43%;
+  float: right;
+}
+.delivery img{
+  display: block;
+  max-width: 5  0%;
+  height: auto;
+  float: right;
+}
+.menu5{
+  padding: 10px;
+  margin : 1% 0% 0% 441px;
+  border: 3px solid rgb(31, 34, 36);
+  float: left;
+}
+.login button {
+  display: block;
+  margin: auto;
+  width: 30%;
+  height: px;
+  background-color: rgb(160, 13, 13);
+  text-decoration: none;
+}
+.login a{
+  color: white;
+  font-size: 1vw;
+   font-family: 'Poppins', sans-serif;
+  text-decoration: none;
+}
+.login :hover{
+  transform: scale(1.2);
+}
+.login h1{
+  color:red;
 }

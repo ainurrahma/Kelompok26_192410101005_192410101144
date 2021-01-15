@@ -1,0 +1,48 @@
+body{
+    background-size: 100% ;
+    min-height: auto;
+    background-image: url(../images/bgpweb1.png);
+}
+td {
+    padding-left: 10%;
+}
+.kotak{
+    size : 10vw;
+}
+.menu1{
+    padding: 10px;
+    margin: 5px 0;
+    border: 3px solid red;
+}
+.menu2{
+    padding: 10px;
+    margin: 5px 0px 0px 25%;    
+    border: 3px solid red;
+}
+.menu3{
+    padding: 10px;
+    margin: 5px 0px 0px 65px;
+    border: 3px solid red;
+}
+.bayar{
+    margin-left: 6%;
+    float: left;
+}
+.pilihan{
+    margin-right: 43%;
+    float: right;
+}
+.vespa img{
+    size: 5vw;
+    display: block;
+    max-width: 30%;
+    height: auto;
+    float: right;
+}
+.menu5{
+    padding: 10px;
+    margin : 1% 0% 0% 441px;
+    border: 3px solid red;
+    float: left;
+}
+
